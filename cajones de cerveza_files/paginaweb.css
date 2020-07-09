@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    .Combos{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    } 
+    .Combos{
+        font-family: sans-serif;
+    .Combos{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    }
+    .Campari{
+        font-family: sans-serif;
+    .Combos{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    }
+    .Fernet{
+
+    }
+    .Cervezas{
+
+    }
+    .Bebidas{
+
+    }
+
+}
+html{
+    scroll-behavior: smooth;
+}
+
+
